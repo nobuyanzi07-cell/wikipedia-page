@@ -200,6 +200,15 @@ section {
     #f8f9fa; 
 }
 
+/* reference*/
+
+.refs {
+  font-size: 13px;
+  padding-left: 20px;
+  color: #54595d;
+  line-height: 2;
+}
+
 
  
  
