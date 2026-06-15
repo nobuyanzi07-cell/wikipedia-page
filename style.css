@@ -98,6 +98,48 @@ section {
     margin-bottom: 8px; 
 }
 
+/* infobox*/
+
+.infobox {
+  float: right;
+  clear: right;
+  margin: 0 0 16px 24px;
+  border: 1px solid #a2a9b1;
+  background: #f8f9fa;
+  font-size: 13px;
+  width: 260px;
+}
+ 
+.infobox img {
+  width: 100%;
+  display: block;
+}
+ 
+.infobox table {
+  width: 100%;
+  border-collapse: collapse;
+}
+ 
+.infobox th {
+  background: #cee0f2;
+  text-align: center;
+  padding: 6px;
+  font-size: 14px;
+}
+ 
+.infobox td {
+  padding: 4px 8px;
+  border-top: 1px solid #eaecf0;
+  vertical-align: top;
+}
+ 
+.infobox td:first-child { 
+    color: 
+    #54595d; 
+    width: 45%; 
+}
+ 
+
 
 
 
