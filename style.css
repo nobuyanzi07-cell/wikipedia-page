@@ -42,4 +42,14 @@ nav {
     gap: 16px;
     font-size: 13px; 
 }
+
+/*layout*/
+
+layout {
+  display: flex;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 24px 20px;
+  gap: 32px;
+}
  
