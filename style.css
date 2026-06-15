@@ -27,3 +27,19 @@ nav {
     border-bottom: 1px solid #a2a9b1;
     background: #fff;
 }
+
+.nav-left {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #202122;
+}
+
+.nav-right { 
+    display: flex; 
+    gap: 16px;
+    font-size: 13px; 
+}
+ 
